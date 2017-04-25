@@ -1,5 +1,12 @@
+// $(document).ready(function(){
+//   $(".flashcard").click(function(){
+//     $(this).children().toggle();
+//   })
+// })
+
+
 $(document).ready(function(){
-  $(".flashcard").click(function(){
-    $(this).children().toggle();
+  $(".flashcard").click(function(){;
+  $(this).children().toggle();
   })
 })
